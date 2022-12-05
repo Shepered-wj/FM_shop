@@ -1,2 +1,3 @@
-# FM_shop
-PC端商城项目
+npm install
+
+npm run serve
